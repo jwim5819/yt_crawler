@@ -1,0 +1,14 @@
+app/config/local_config.py
+manifest/
+
+venv/
+.env
+
+*.log
+
+pip-cache/
+pip-wheel-metadata/
+__pycache__/
+
+.vscode/
+.idea/
